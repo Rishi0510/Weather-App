@@ -137,6 +137,7 @@ footer {
     font-weight: bold;
 }
 
+/* Responsive update */
 @media screen and (max-width:480px){
     .card{
         min-width: 180px;
